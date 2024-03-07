@@ -1,0 +1,40 @@
+.select {
+  border-radius: 0.5rem;
+  width: 300px;
+  height: 30px;
+  font-size: x-large;
+  text-align: center;
+}
+
+.color {
+  color: gray;
+}
+
+.whole{
+  margin-top: 2%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.set{
+  margin-top: 10%;
+  font-size: 50px;
+  color: black;
+}
+
+
+.result {
+  display: grid;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+h3 {
+  text-align: center;
+}
+
+.butn{
+  margin-top: 5%;
+  font-size: xx-large!important;
+  border-bottom: 2px solid black !important;
+}

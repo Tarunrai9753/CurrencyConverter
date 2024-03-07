@@ -1,0 +1,13 @@
+#root {
+  width: 100%;
+}
+
+.button {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+select {
+  width: 150px;
+  margin: 10px;
+}
